@@ -1,3 +1,8 @@
+# This is a Fork of the original Repo
+
+The only change is to change the extension of the es build file from .js to .mjs
+This allows this package to be used in esbuild projects
+
 # dfuse JavaScript/TypeScript Client Library
 
 A GraphQL, WebSocket and HTTP REST client library to consume dfuse API <https://dfuse.io> ([dfuse docs](https://docs.dfuse.io)).
